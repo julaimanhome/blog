@@ -1,12 +1,12 @@
 # Site
-name: 'julaiman'
-description: 'buka wawasan dengan membaca.'
+name: 'Julaiman Site'
+description: 'Web Developer & Digital Marketing.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ""
-disqus: 'demowebsite'
+baseurl: ''
+disqus: 'julaiman.web.id'
 email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://gmail.us14.list-manage.com/subscribe/post?u=5f25916de47b43c1cfbec2588&amp;id=4b7ae81094&amp;f_id=0038b7e5f0'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,20 +20,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      name:           Julaiman
+      site:           https://julaiman.web.id
+      avatar:         /masukinternet.github.io/assets/images/avatar1.png
+      bio:            "Web Developer & Digital Marketing"
+      email:          letakwebid@gmail.com
+      twitter:        https://twitter.com/masjulaiman
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      name:           Nur
+      site:           https://www.nurmusiani.blogspot.com
+      avatar:         /masukinternet.github.io/assets/images/avatar2.png
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          nurmusiani37@gmail.com
+      twitter:        https://twitter.com/nur
  
 # Defaults
 defaults:
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: Julaiman
-      avatar: /assets/images/avatar1.png
+      avatar: /masukinternet.github.io/assets/images/avatar1.jpg
       
   # all pages
   - scope:
