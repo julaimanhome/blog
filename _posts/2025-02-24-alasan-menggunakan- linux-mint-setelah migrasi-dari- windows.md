@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alasan Menggunakan Linux Mint Setelah Migrasi dari Windows"
-author: Julaiman
+author: sal
 categories: [ Linux ]
 image: assets/images/demo1.jpg
 ---
