@@ -5,9 +5,9 @@ author: sal
 categories: [ Linux ]
 tags: [ Linux Mint ]
 image: assets/images/kelebihan.png
-tags: [featured]
+
 ---
-T## Kelebihan dan Kekurangan Menggunakan Linux Mint
+
 
 Operating sistem satu ini merupakan yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.
 
