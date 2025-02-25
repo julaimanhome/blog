@@ -3,6 +3,7 @@ layout: post
 title:  "Kelebihan dan Kekurangan Menggunakan Linux Mint"
 author: sal
 categories: [ Linux ]
+tags: [ Linux Mint ]
 image: assets/images/kelebihan.png
 tags: [featured]
 ---

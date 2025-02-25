@@ -3,8 +3,9 @@ layout: post
 title:  "Cara Membuat Restore Point di Windows"
 author: sal
 categories: [ Windows ]
+tags: Windows 10
 image: assets/images/restorepoint.jpg
-tags: [featured]
+
 ---
 
 System Restore Point merupakan fitur lanjutan yang ada di Windows. Dengan fitur ini, pengguna dapat mengembalikan pengaturan seperti semula tanpa menghapus data apa pun.

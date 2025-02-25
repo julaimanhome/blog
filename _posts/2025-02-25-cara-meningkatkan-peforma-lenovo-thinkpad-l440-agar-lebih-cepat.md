@@ -3,6 +3,7 @@ layout: post
 title:  "Cara Meningkatkan Peforma Lenovo Thinkpad L440 agar lebih cepat"
 author: sal
 categories: [ Laptop ]
+tags: [ Lenovo Thinkpad L440 ]
 image: assets/images/thinkpad.jpg
 ---
 Jika Laptop Lenovo Thinkpad L440 kalian masih belum memberikan performa terbaik ada beberapa cara untuk meningkatkanya. Tidak usah khawatir karena saya disini akan menjelaskanya secara detail dan jelas. Jadi, simak terus penjelasanya sampai akhir.

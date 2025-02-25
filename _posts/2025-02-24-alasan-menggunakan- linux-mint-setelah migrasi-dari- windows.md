@@ -3,6 +3,7 @@ layout: post
 title:  "Alasan Menggunakan Linux Mint Setelah Migrasi dari Windows"
 author: sal
 categories: [ Linux ]
+tags: Linux Mint
 image: assets/images/alasan.png
 ---
 

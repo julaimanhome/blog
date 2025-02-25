@@ -2,7 +2,8 @@
 layout: post
 title:  "Lenovo Thinkpad L440 Laptop Jadul Spesifikasi Gahar"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Laptop ]
+tags: Lenovo Thinkpad L440
 image: assets/images/lenovo.jpg
 ---
 

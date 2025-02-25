@@ -3,8 +3,9 @@ layout: post
 title:  "Menjalankan Aplikasi Android di Linux Mint Dengan Waydroid"
 author: sal
 categories: [ Linux]
+tags: [ Linux Mint ]
 image: assets/images/waydroid.png
-tags: [summer]
+
 ---
 ## Nyobain Install Waydroid di Linux Mint
 
