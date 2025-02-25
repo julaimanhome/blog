@@ -3,7 +3,7 @@ layout: post
 title:  "Alasan Menggunakan Linux Mint Setelah Migrasi dari Windows"
 author: sal
 categories: [ Linux ]
-image: assets/images/demo1.jpg
+image: assets/images/alasan.png
 ---
 
 Ok, di sini saya akan membagikan sedikit pengalaman pribadi mengapa lebih memilih Linux dan pindah dari Windows. Sebelum saya membahas lebih lanjut perihal alasan pindah ke Linux, saya akan menjelaskan terlebih dahulu apa itu Linux. Mungkin teman-teman di sini ada yang belum paham apa sih Linux itu dan mengapa bisa menjadi alternatif selain Windows.
