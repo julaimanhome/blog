@@ -66,13 +66,7 @@ layout: default
             
             <!-- Article -->
 			<article class="article-post">                
-				{% assign paragraphs = content | split: '</p>' %}
-				{% assign total_paragraphs = paragraphs | size %}
-				{% assign midpoint = total_paragraphs | divided_by: 2 %}
-				
-				{% for paragraph in paragraphs %}
-					{{ paragraph }}</p>
-					{% if forloop.index == midpoint %} 
+			{{ content }}  
 			<div style="background: #f4f4f4; padding: 10px; border-left: 5px solid #0073e6; margin: 20px 0;">
 				<strong>Baca Juga:</strong>
 				<ul>
