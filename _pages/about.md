@@ -2,10 +2,10 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/avatar1.png"
+image: "/assets/images/julaiman.png"
 comments: true
 ---
-# Tentang Saya
+
 
 ## Halo, Nama Saya Julaiman
 
