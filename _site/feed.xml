@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-26T10:29:13+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julaiman Site</title><subtitle>Web Developer &amp; Digital Marketing.</subtitle><entry><title type="html">Cara Membuat Restore Point di Windows</title><link href="http://localhost:4000/cara-membuat-restore-point-di-windows/" rel="alternate" type="text/html" title="Cara Membuat Restore Point di Windows" /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/cara-membuat-restore-point-di-windows</id><content type="html" xml:base="http://localhost:4000/cara-membuat-restore-point-di-windows/"><![CDATA[<p>System Restore Point merupakan fitur lanjutan yang ada di Windows. Dengan fitur ini, pengguna dapat mengembalikan pengaturan seperti semula tanpa menghapus data apa pun.</p>
+
+<p>System restore ini berguna apabila komputer atau laptop yang kita gunakan mengalami hang atau bluescreen yang diakibatkan dari kesalahan sistem atau karena pengaturan yang tidak kompatibel.</p>
+
+<p>Apabila kalian pengguna yang senang melakukan berbagai macam eksperimen, membuat System Restore Point bisa dikatakan penting. Jika terjadi permasalahan pada perangkat, kita dapat mengembalikannya dengan mengakses System Restore Point.</p>
+
+<h3 id="cara-membuat-system-restore-point">Cara Membuat System Restore Point</h3>
+
+<ol>
+  <li>Klik tombol <strong>Windows + R</strong>, lalu ketik <code class="language-plaintext highlighter-rouge">sysdm.cpl</code> kemudian tekan <strong>OK</strong>.</li>
+  <li>Pilih tab <strong>System Protection</strong>.</li>
+  <li>Pilih disk sistem, biasanya ada di <strong>Disk C:</strong>.</li>
+  <li>Selanjutnya, pilih <strong>Turn on system protection</strong>, dan geser slider ke <strong>5-10%</strong> kapasitas disk, lalu klik <strong>OK</strong>.</li>
+  <li>Buat restore point dengan cara klik <strong>Create</strong>.</li>
+  <li>Berikan nama untuk restore point, misalnya <strong>“Sebelum Dirubah”</strong>, lalu klik <strong>Create</strong>.</li>
+  <li>Tunggu sampai proses selesai, jika sudah klik <strong>Close</strong>.</li>
+</ol>
+
+<h3 id="cara-mengakses-restore-point">Cara Mengakses Restore Point</h3>
+
+<ol>
+  <li>Tekan tombol <strong>Windows + R</strong> pada keyboard kemudian ketik <code class="language-plaintext highlighter-rouge">rstrui</code> lalu tekan <strong>Enter</strong>.</li>
+  <li>Pilih restore point yang sudah kalian buat.</li>
+  <li>Jika sudah, klik <strong>Finish</strong> lalu tunggu hingga proses selesai.</li>
+</ol>
+
+<p>Itulah tadi penjelasan cara membuat restore point pada laptop atau komputer. Semoga bermanfaat!</p>]]></content><author><name>sal</name></author><category term="Windows" /><category term="Windows" /><category term="10" /><summary type="html"><![CDATA[System Restore Point merupakan fitur lanjutan yang ada di Windows. Dengan fitur ini, pengguna dapat mengembalikan pengaturan seperti semula tanpa menghapus data apa pun.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/restorepoint.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/restorepoint.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cara Meningkatkan Peforma Lenovo Thinkpad L440 agar lebih cepat</title><link href="http://localhost:4000/cara-meningkatkan-peforma-lenovo-thinkpad-l440-agar-lebih-cepat/" rel="alternate" type="text/html" title="Cara Meningkatkan Peforma Lenovo Thinkpad L440 agar lebih cepat" /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/cara-meningkatkan-peforma-lenovo-thinkpad-l440-agar-lebih-cepat</id><content type="html" xml:base="http://localhost:4000/cara-meningkatkan-peforma-lenovo-thinkpad-l440-agar-lebih-cepat/"><![CDATA[<p>Jika Laptop Lenovo Thinkpad L440 kalian masih belum memberikan performa terbaik ada beberapa cara untuk meningkatkanya. Tidak usah khawatir karena saya disini akan menjelaskanya secara detail dan jelas. Jadi, simak terus penjelasanya sampai akhir.</p>
+
+<h2 id="cara-meningkatkan-peforma-lenovo-thinkpad-l440-agar-lebih-cepat">Cara Meningkatkan Peforma Lenovo Thinkpad L440 agar lebih cepat.</h2>
+
+<h3 id="ganti-penyimpanan-sistem-laptop-dengan-ssd">Ganti penyimpanan sistem laptop dengan SSD</h3>
+
+<p>Apabila kalian masih menggunakan hardisk untuk penggunaan aplikasi di laptop sudah dipastikan laptop kalian bakal lemot. Jenis hardisk pada laptop Thinkpad L440 adalah SATA II yang maksimal kecepatanya kisaran 300 MB/S.</p>
+
+<p>Solusinya, kalian bisa mengganti atau menukarnya dengan SSD yang peformanya lebih stabil. SSD (Solid State Drive) adalah jenis media penyimpanan yang lebih cepat dan lebih andal dibandingkan HDD (Hard Disk Drive) karena tidak memiliki bagian mekanis yang bergerak. SSD menggunakan chip flash memory untuk menyimpan data, sehingga memiliki kecepatan baca/tulis yang jauh lebih tinggi dibandingkan HDD yang masih menggunakan piringan magnetik.</p>
+
+<p>Nah, untuk memilih SSD khusus Laptop Thinkpad L440 adalah jenis SATA 2,5 jangan sampai salah pilih, jika kalian menggunakan tipe lain seperti misalnya Nvme maka sudah dipastikan tidak akan bisa. kalian bisa mendapatkannya di official store online yang terpercaya. Untuk SSD rekomendasi yang bisa kalian coba:</p>
+
+<ul>
+  <li>Adata SU650</li>
+  <li>V-Gen Platinum</li>
+  <li>Transcend</li>
+  <li>Kyo Prestige</li>
+  <li>Team Group</li>
+</ul>
+
+<p>Lalu, bagaimana untuk hardisk yang diganti? Kalian bisa pasang hardisk tersebut pada hard drive atau CD yang ada pada laptop. Agar dapat memasukan hardisk nya kalian membutuhkan Caddy agar dapat dipasang di laptop.</p>
+
+<p>Sebelum memutuskan ganti ke SSD silahkan backup dan amankan dulu data pada laptop. Supaya lebih mudah, saya sarankan menggunakan tools seperti <strong>Minitool Partition Wizard</strong> atau <strong>EaseUS</strong>. Gunanya apa? dengan software tersebut kalian dapat mengkloning OS dan data data penting yang ada pada laptop sehingga kalian tidak usah repot-repot lagi menginstal ulang windows.</p>
+
+<h3 id="tambah-kapasitas-ram">Tambah kapasitas RAM</h3>
+
+<p>Kapasitas RAM pada Laptop Thinkpad L440 bisa di upgrade hingga <strong>16 GB</strong>. Agar lebih maksimal, silahkan tambahkan RAM pada laptop. Untuk RAM rekomendasi kalian bisa coba produk dari vendor ini:</p>
+
+<ul>
+  <li><strong>Imperion SODimm DDR3L</strong></li>
+  <li><strong>V-Gen Platinum SODimm DDR3L</strong></li>
+</ul>
+
+<h3 id="meningkatkan-peforma-prosesor">Meningkatkan Peforma Prosesor</h3>
+
+<p>Kalian bisa juga meningkatkan performa prosesor dengan langkah yang mudah pada laptop kalian. Namun sebelum melakukan ini sebaiknya kalian buat <strong>restore point</strong> terlebih dahulu untuk jaga-jaga apabila laptop tiba-tiba hang atau bluescreen. Berikut adalah artikel cara membuat restore point apabila kalian belum tahu caranya.</p>
+
+<p>Nah, apabila sudah menyetel restore point silahkan simak caranya berikut ini:</p>
+
+<ol>
+  <li>Ketik <strong>‘System Configuration’</strong> pada kolom pencarian atau ikon search di laptop kalian. Jika sudah silahkan klik <strong>open</strong></li>
+  <li>Pada tab <strong>Boot</strong> gulir pada pilihan <strong>‘Advance Options’</strong></li>
+  <li>Centang pada bagian <strong>‘Number of processor’</strong> lalu pilih angka yang paling bawah yaitu <strong>angka 4</strong></li>
+  <li>Klik <strong>Apply</strong> kemudian <strong>OK</strong></li>
+  <li>Jika muncul peringatan <strong>restart computer</strong> klik tanda <strong>X</strong> atau silang jangan di restart dulu</li>
+</ol>
+
+<p>Lalu lanjut ke <strong>Control Panel &gt; Hardware and Sound &gt; Power Options</strong></p>
+
+<ol>
+  <li>Kemudian pada bagian <strong>balanced (recommended)</strong> pilih <strong>change plan settings &gt; change advanced power settings</strong></li>
+  <li>Kemudian gulir pada pilihan <strong>Processor Management</strong></li>
+  <li>Ubah angka ke <strong>100</strong> pada menu <strong>Minimum Processor State</strong> begitu juga pada pilihan <strong>Maximum Processor State</strong></li>
+  <li>Jika sudah klik <strong>Apply</strong> lalu <strong>OK</strong></li>
+  <li><strong>Restart Laptop</strong> kalian</li>
+  <li>Untuk melihat hasilnya silahkan buka menu <strong>Task manager</strong></li>
+</ol>
+
+<p>Itulah beberapa <strong>Cara Meningkatkan Peforma Lenovo Thinkpad L440</strong>, semoga artikel ini bermanfaat. Terima kasih telah berkunjung. Apabila ada yang ingin didiskusikan silahkan tambahkan komentar kalian di bawah ya.</p>]]></content><author><name>sal</name></author><category term="Laptop" /><category term="Lenovo Thinkpad L440" /><summary type="html"><![CDATA[Jika Laptop Lenovo Thinkpad L440 kalian masih belum memberikan performa terbaik ada beberapa cara untuk meningkatkanya. Tidak usah khawatir karena saya disini akan menjelaskanya secara detail dan jelas. Jadi, simak terus penjelasanya sampai akhir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/thinkpad.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/thinkpad.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kelebihan dan Kekurangan Menggunakan Linux Mint</title><link href="http://localhost:4000/kelebihan-dan-kekurangan-menggunakan-linux-mint/" rel="alternate" type="text/html" title="Kelebihan dan Kekurangan Menggunakan Linux Mint" /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/kelebihan-dan-kekurangan-menggunakan-linux-mint</id><content type="html" xml:base="http://localhost:4000/kelebihan-dan-kekurangan-menggunakan-linux-mint/"><![CDATA[<p>Operating sistem satu ini merupakan yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.</p>
+
+<p>Walaupun OS ini tidak se-populer Windows, tetapi masih banyak pengguna yang betah dengan kompabilitas yang ditawarkan Linux Mint. Namun yang perlu diingat, semua terobosan produk baik itu yang paling canggih sekalipun memiliki kelebihan dan kekurangan. Termasuk juga dengan Linux Mint.</p>
+
+<p>Nah, berikut ini adalah kelebihan dan kekurangan Linux Mint.</p>
+
+<h3 id="kelebihan-linux-mint">Kelebihan Linux Mint</h3>
+
+<ul>
+  <li>Antarmuka yang familiar dan mirip Windows untuk tampilan Cinnamon, sedangkan untuk MATE lebih mirip seperti Mac OS.</li>
+  <li>Ada juga tampilan Xfce yang super ringan untuk versi PC atau Laptop jadul.</li>
+  <li>Tidak perlu repot-repot seting konfigurasi, dan sebelum menginstal kita dapat melihat terlebih dahulu menu-menu yang ada di Linux Mint.</li>
+  <li>Stabil dan ringan serta dapat berjalan di perangkat PC atau Laptop yang memiliki RAM 2GB.</li>
+  <li>Aplikasi langsung bisa dipakai setelah instalasi, tanpa harus mendownload satu persatu.</li>
+  <li>Driver otomatis terinstal setelah berhasil melakukan instalasi Linux Mint.</li>
+  <li>Aman bebas virus/malware.</li>
+  <li>Forum support yang banyak.</li>
+</ul>
+
+<p>Itu adalah beberapa kelebihan dari OS Linux Mint, sebenarnya masih banyak kelebihan lain dari OS Linux Mint ini.</p>
+
+<h3 id="kekurangan-linux-mint">Kekurangan Linux Mint</h3>
+
+<ul>
+  <li>Beberapa driver hardware kurang optimal khususnya NVIDIA, yah meskipun dapat diatasi secara teknis.</li>
+  <li>Untuk penggunaan server atau perusahaan masih kalah dengan distro lain seperti Ubuntu, Fedora Workstation, atau Debian.</li>
+</ul>
+
+<h3 id="penutup">Penutup</h3>
+
+<p>Untuk kekurangannya sendiri sebenarnya kita dapat mengatasinya walaupun agak tricky. Selebihnya, Linux Mint ini dapat diandalkan untuk kebutuhan yang lebih expert seperti koding, gaming, membuat laporan, dan sebagainya.</p>
+
+<p>Nah, apakah kamu tertarik beralih ke Linux Mint?</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Operating sistem satu ini merupakan yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/kelebihan.png" /><media:content medium="image" url="http://localhost:4000/assets/images/kelebihan.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Menjalankan Aplikasi Android di Linux Mint Dengan Waydroid</title><link href="http://localhost:4000/menjalankan-aplikasi-android-di-linux-mint-dengan-waydroid/" rel="alternate" type="text/html" title="Menjalankan Aplikasi Android di Linux Mint Dengan Waydroid" /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/menjalankan-%20aplikasi-android-di%20linux-mint-dengan-%20waydroid</id><content type="html" xml:base="http://localhost:4000/menjalankan-aplikasi-android-di-linux-mint-dengan-waydroid/"><![CDATA[<h2 id="nyobain-install-waydroid-di-linux-mint">Nyobain Install Waydroid di Linux Mint</h2>
+
+<p>Setelah beberapa hari menggunakan Linux Mint saya iseng untuk nyobain instal aplikasi android di OS ini. Biasanya kalau di Windows saya menggunakan emulator seperti Bluestack, karena saya baru pertama kali menggunakan OS Linux ada terbersit dalam pikiran apakah bisa di Linux Mint menjalankan aplikasi Android? Tanpa pikir panjang saya pun mencari informasinya melalui internet.</p>
+
+<p>Setelah mencari referensi yang pas akhirnya saya menemukan aplikasi cocok untuk OS Linux Mint yaitu <strong>Waydroid</strong>. Cara instalasi Waydroid di Linux Mint tergolong mudah dan sederhana, cukup melalui terminal kita bisa langsung mengunduhnya.</p>
+
+<p>Ada beberapa tambahan lain ketika selesai instal Waydroid yaitu menginstal <strong>Gapps</strong> yang tujuannya agar kita dapat mengakses aplikasi melalui Google Playstore. Gapps ini ukurannya lebih kurang 900-an MB. Setelah semuanya selesai saya pun merestart laptop kemudian menghidupkannya kembali.</p>
+
+<p>Agar Waydroid dapat diakses, silahkan switch dulu ke mode <strong>Wayland</strong> atau <strong>Wayland Experimental</strong>. Setelah berhasil switch, tugas selanjutnya adalah mendaftarkan ID Waydroid ke Google agar nantinya dapat mengakses aplikasi di Playstore dan jangan lupa untuk login akun Gmail.</p>
+
+<p>Sejauh yang saya alami ketika menjalankan Waydroid di Linux performa aplikasi terbilang lancar tanpa ada kendala lag. Saya memainkan game <strong>Clash of Clans</strong> dengan spesifikasi laptop saya <strong>Intel Core i5 Gen 4 dengan SSD 128 GB serta RAM 8 GB</strong>. Namun ada satu bug yang belum bisa diatasi yaitu <strong>graphic warna yang kurang akurat atau tidak seperti aslinya</strong>.</p>
+
+<p>Untuk selebihnya tidak ada kendala dan keren!</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Nyobain Install Waydroid di Linux Mint]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/waydroid.png" /><media:content medium="image" url="http://localhost:4000/assets/images/waydroid.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pengalaman Menggunakan Linux Mint Setelah Migrasi dari Windows.</title><link href="http://localhost:4000/pengalaman-menggunakan-linux-mint-setelah-migrasi-dari-windows/" rel="alternate" type="text/html" title="Pengalaman Menggunakan Linux Mint Setelah Migrasi dari Windows." /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/pengalaman-menggunakan-linux-mint-setelah-migrasi-dari-windows</id><content type="html" xml:base="http://localhost:4000/pengalaman-menggunakan-linux-mint-setelah-migrasi-dari-windows/"><![CDATA[<p>Sebagai programer web yang membutuhkan fleksibilitas, saya lebih mengutamakan sistem atau software yang dapat menunjang pekerjaan saya. Sebelumnya saya menggunakan Windows 10 untuk menjalankan semua pekerjaan di laptop. Kebetulan laptop yang saya gunakan saat ini hanya sebatas laptop jadul yang intinya cukuplah untuk bisa ngoding, ngetik, dan editing tipis-tipis.</p>
+
+<p>Menggunakan sistem operasi seperti Windows 10 bagi saya sudah lebih dari cukup untuk membantu menyelesaikan pekerjaan. Sebenarnya ingin sekali upgrade ke Windows 11 namun laptop jadul saya tidak memenuhi syarat untuk menginstal Windows 11. Maka dari itu, pilihan satu-satunya adalah bertahan dengan sistem operasi Windows 10.</p>
+
+<p>Namun per tanggal 14 Oktober 2025, dukungan untuk OS Windows 10 akan berakhir dan tidak akan dilanjutkan oleh Microsoft. Jadi, setelah membaca informasinya, Microsoft tidak akan memberikan update terbaru baik itu dari update keamanan, driver, kompabilitas, dan lainnya yang berhubungan dengan software. Microsoft merekomendasikan pengguna untuk beralih ke sistem operasi terbaru mereka yaitu Windows 11.</p>
+
+<p>Karena saya cuma punya laptop jadul, mau tidak mau harus mencari alternatif lain. Jika masih menggunakan sistem operasi yang tidak ada dukungan update terutama dari segi keamanan, akan rentan oleh serangan virus yang dapat merugikan baik terhadap software maupun aset di perangkat. Kalau ingin update terbaru, kalian bisa update ke OS terbaru Windows (jika perangkat support), tapi jika tidak support solusinya beli laptop baru yang sudah mendukung Windows 11.</p>
+
+<p>Setelah mencari berbagai sumber dan referensi, akhirnya saya menemukan sistem operasi yang antarmukanya hampir mirip seperti Windows, yaitu <strong>Linux Mint Cinnamon</strong>. Tanpa basa-basi saya pun mengunduhnya. Ukurannya relatif lebih kecil, sekitar 2.8 GB. Sebagai informasi, OS yang saya unduh ini merupakan OS yang berbasis Linux yang sifatnya <em>opensource</em>.</p>
+
+<p>Sebelumnya saya menggunakan disk atau SSD baru untuk menginstal Linux Mint. Untuk disk yang terinstal Windows sengaja saya lepas karena saya tidak ingin menggunakan dual booting. Jadi, saya ingin mencoba pure menggunakan Linux.</p>
+
+<h3 id="segi-tampilan-linux-mint-cinnamon">Segi Tampilan Linux Mint Cinnamon</h3>
+
+<p>Tampilan antarmuka Linux Mint Cinnamon hampir mirip seperti di Windows baik dari posisi dan layoutnya. Tampilan seperti background pun masih bisa dikostumisasi. Pointernya pun terlihat berbeda dari pointer Windows pada umumnya.</p>
+
+<h3 id="aplikasi-penunjang-produktivitas">Aplikasi Penunjang Produktivitas</h3>
+
+<p>Jika biasanya kita menggunakan Microsoft Office untuk mengetik, di Linux Mint sudah tersedia <strong>LibreOffice</strong> yang dapat diandalkan untuk mengetik. LibreOffice juga support dengan ekstensi file yang umum seperti <code class="language-plaintext highlighter-rouge">.doc</code>, <code class="language-plaintext highlighter-rouge">.docx</code>, <code class="language-plaintext highlighter-rouge">.xlsx</code>, dan lain-lain. Kalau belum terbiasa dengan LibreOffice, kamu dapat menggunakan <strong>WPS Office</strong> untuk kebutuhan mengetik.</p>
+
+<p>Untuk pengeditan video, gambar, dan desain lainnya juga tersedia banyak aplikasi di sini. Walaupun tidak tersedia Adobe, Corel, CapCut, dan sebagainya yang sering digunakan di Windows, aplikasi di Linux Mint sepenuhnya dapat kita pakai secara gratis tanpa harus berlangganan. Inilah kehebatan dari sistem operasi <em>Open Source</em>.</p>
+
+<h3 id="gaming">Gaming</h3>
+
+<p>Karena saya tidak hobi gaming, jadi saya belum mencobanya. Namun untuk urusan gaming, di Linux Mint kamu bisa mengandalkannya. Banyak aplikasi yang menunjang untuk kebutuhan gaming yang dapat dinikmati secara gratis.</p>
+
+<h3 id="browsing">Browsing</h3>
+
+<p>Untuk urusan browsing, kita masih dapat menginstal <strong>Chrome</strong> di Linux Mint. Tidak hanya Chrome, di sini juga support <strong>Mozilla Firefox, Brave, dan sebagainya</strong>. Dari segi kecepatan, Linux Mint lebih unggul dan tidak memakan banyak sumber daya RAM.</p>
+
+<h3 id="aplikasi-chat">Aplikasi Chat</h3>
+
+<p>Untuk aplikasi chat, kita masih bisa menginstal <strong>Telegram</strong>, namun untuk <strong>WhatsApp</strong> belum bisa diinstal di Linux Mint karena memang belum ada dukungannya. Solusinya, bisa menggunakan WhatsApp dengan login melalui browser atau <strong>WhatsApp Web</strong>.</p>
+
+<h3 id="penutup">Penutup</h3>
+
+<p>Yups, itulah pengalaman saya sementara menggunakan Linux Mint. Karena saya belum lama menginstal Linux, perlu waktu untuk mempelajari dan beradaptasi. Jadi, misalnya ada pembaruan saya akan update informasinya di sini.</p>
+
+<h3 id="kesimpulan">Kesimpulan</h3>
+
+<p>Linux Mint adalah sistem operasi yang <strong>Open Source</strong>, yang artinya semua orang dapat berkontribusi untuk pengembangan OS ini. Linux Mint aman dan bebas dari virus apapun, dan yang pasti gratis tanpa harus membayar langganan apapun baik dari penggunaan aplikasi maupun lainnya.</p>
+
+<p>Mungkin perlu adaptasi bagi kamu yang baru beralih dari OS sebelah. Tapi jika kamu lebih nyaman dengan Windows, solusinya upgrade OS-mu ke yang terbaru dalam hal ini <strong>Windows 11</strong> dan pastikan perangkatmu support.</p>
+
+<p>Demikianlah penjelasan tentang <strong>Pengalaman saya Menggunakan Linux Mint Setelah Migrasi dari Windows</strong>. Semoga bermanfaat!</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Sebagai programer web yang membutuhkan fleksibilitas, saya lebih mengutamakan sistem atau software yang dapat menunjang pekerjaan saya. Sebelumnya saya menggunakan Windows 10 untuk menjalankan semua pekerjaan di laptop. Kebetulan laptop yang saya gunakan saat ini hanya sebatas laptop jadul yang intinya cukuplah untuk bisa ngoding, ngetik, dan editing tipis-tipis.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/pengalaman.png" /><media:content medium="image" url="http://localhost:4000/assets/images/pengalaman.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Alasan Menggunakan Linux Mint Setelah Migrasi dari Windows</title><link href="http://localhost:4000/alasan-menggunakan-linux-mint-setelah-migrasi-dari-windows/" rel="alternate" type="text/html" title="Alasan Menggunakan Linux Mint Setelah Migrasi dari Windows" /><published>2025-02-24T00:00:00+07:00</published><updated>2025-02-24T00:00:00+07:00</updated><id>http://localhost:4000/alasan-menggunakan-%20linux-mint-setelah%20migrasi-dari-%20windows</id><content type="html" xml:base="http://localhost:4000/alasan-menggunakan-linux-mint-setelah-migrasi-dari-windows/"><![CDATA[<p>Ok, di sini saya akan membagikan sedikit pengalaman pribadi mengapa lebih memilih Linux dan pindah dari Windows. Sebelum saya membahas lebih lanjut perihal alasan pindah ke Linux, saya akan menjelaskan terlebih dahulu apa itu Linux. Mungkin teman-teman di sini ada yang belum paham apa sih Linux itu dan mengapa bisa menjadi alternatif selain Windows.</p>
+
+<h2 id="apa-itu-linux">Apa itu Linux?</h2>
+
+<p>Linux merupakan operating system yang dikembangkan pertama kali oleh Linus Torvalds di tahun 1991. Sistem ini berbasis open source sehingga dapat memudahkan pengguna atau developer lain berkontribusi dalam mengembangkan sistem Linux. Karena sifatnya yang open source, Linux menjadi sistem operasi yang stabil, fleksibel, dan aman dari berbagai virus atau malware.</p>
+
+<p>Linux banyak digunakan untuk berbagai kepentingan seperti misalnya pengembangan dan stabilitas server, software, bahkan juga untuk kebutuhan pribadi seperti komputer rumah, gaming, dan hal lain yang bisa dilakukan.</p>
+
+<p>Seiring dengan berkembangnya zaman, Linux bersama pengembang saat ini sudah banyak mendistribusikan varian yang lebih banyak dan dikenal sebagai <em>distro Linux</em>. Berikut ini adalah daftar distro Linux yang sudah launching dan tersedia secara gratis di situs <a href="https://www.linux.org">Linux.org</a>:</p>
+
+<ul>
+  <li>Ubuntu</li>
+  <li>CentOS</li>
+  <li>Debian</li>
+  <li>Fedora</li>
+  <li>Slackware</li>
+  <li>Linux Mint</li>
+  <li>Xubuntu</li>
+  <li>Arch</li>
+  <li>openSUSE</li>
+  <li>RedHat</li>
+  <li>Slackel</li>
+  <li>PureOS</li>
+  <li>Mageia</li>
+  <li>PCLinuxOS</li>
+  <li>Puppy</li>
+  <li>ZorinOS</li>
+  <li>Bunsenlabs</li>
+  <li>Kubuntu</li>
+  <li>Manjaro</li>
+  <li>Neptune</li>
+  <li>Bodhi</li>
+  <li>Netrunner</li>
+  <li>Kali Linux</li>
+  <li>Lubuntu</li>
+</ul>
+
+<p>Dari daftar distro di atas, masing-masing memiliki fungsi dan tujuan yang dapat disesuaikan dengan kebutuhan. Misalnya, untuk pengguna yang baru ingin memulai, bisa mencoba Linux Mint, Ubuntu, atau ZorinOS. Semua itu tentunya dapat dicoba jika Anda penasaran.</p>
+
+<h2 id="mengapa-saya-memilih-linux-mint">Mengapa Saya Memilih Linux Mint?</h2>
+
+<p>Sebagai pengguna yang terbiasa dengan ekosistem Windows, pelan-pelan saya mulai beradaptasi dan mencoba segala fiturnya. Berikut adalah beberapa alasan mengapa saya memilih Linux Mint:</p>
+
+<h3 id="alasan-menggunakan-linux-mint">Alasan Menggunakan Linux Mint</h3>
+
+<ul>
+  <li>Tampilan yang lebih keren dan ringan</li>
+  <li>Terdapat tiga pilihan edisi: Cinnamon, Mate, dan XFCE</li>
+  <li>Lebih aman dari virus</li>
+  <li>Driver dan aplikasi terinstal otomatis</li>
+  <li>Menu jelas dan tidak membingungkan</li>
+  <li>Gratis</li>
+</ul>
+
+<p>Itulah beberapa alasan mengapa saya memilih Linux Mint untuk penggunaan harian. Dan yang terpenting, kita dapat menggunakan OS ini secara gratis tanpa biaya langganan apa pun.</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux" /><category term="Mint" /><summary type="html"><![CDATA[Ok, di sini saya akan membagikan sedikit pengalaman pribadi mengapa lebih memilih Linux dan pindah dari Windows. Sebelum saya membahas lebih lanjut perihal alasan pindah ke Linux, saya akan menjelaskan terlebih dahulu apa itu Linux. Mungkin teman-teman di sini ada yang belum paham apa sih Linux itu dan mengapa bisa menjadi alternatif selain Windows.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/alasan.png" /><media:content medium="image" url="http://localhost:4000/assets/images/alasan.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lenovo Thinkpad L440 Laptop Jadul Spesifikasi Gahar</title><link href="http://localhost:4000/lenovo-thinkpad-l440-laptop-jadul-spesifikasi-gahar/" rel="alternate" type="text/html" title="Lenovo Thinkpad L440 Laptop Jadul Spesifikasi Gahar" /><published>2025-02-24T00:00:00+07:00</published><updated>2025-02-24T00:00:00+07:00</updated><id>http://localhost:4000/lenovo-thinkpad-l440-laptop-jadul-spesifikasi-gahar</id><content type="html" xml:base="http://localhost:4000/lenovo-thinkpad-l440-laptop-jadul-spesifikasi-gahar/"><![CDATA[<p>Buat kamu yang sedang mencari rekomendasi laptop second dengan harga terjangkau, Lenovo Thinkpad L440 mungkin bisa menjadi pertimbangan untuk dimiliki. Walaupun tergolong barang yang jadul, tetapi laptop ini mempunyai spesifikasi yang lumayan mumpuni. Untuk menyelesaikan tugas ngetik seperti laporan keuangan, pembuatan skripsi, ngoding, dan browsing, laptop ini masih worth it untuk digunakan.</p>
+
+<p>Lenovo Thinkpad L440 rilis sekitar tahun 2013-2014 dan merupakan laptop bisnis kelas menengah dengan harga yang terjangkau. Walaupun tergolong laptop kelas menengah, laptop ini memiliki build quality yang kokoh serta keyboard yang nyaman dipakai saat digunakan untuk mengetik. Soal performa jangan ditanya, laptop ini dibekali dengan prosesor yang lumayan gahar.</p>
+
+<p>Terdapat beberapa keluaran untuk laptop Lenovo Thinkpad L440 ini di antaranya prosesor Intel Core i3, Core i5, dan Core i7. Prosesor tersebut merupakan generasi ke-4 yakni Haswell.</p>
+
+<p>Daripada penasaran, yuk baca lebih lanjut spesifikasinya:</p>
+
+<h3 id="spesifikasi-lenovo-thinkpad-l440">Spesifikasi Lenovo ThinkPad L440</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Spesifikasi</th>
+      <th>Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Rilis</strong></td>
+      <td>2013 - 2014</td>
+    </tr>
+    <tr>
+      <td><strong>Dimensi</strong></td>
+      <td>339 x 235 x 31 mm</td>
+    </tr>
+    <tr>
+      <td><strong>Bobot</strong></td>
+      <td>Sekitar 2.3 kg</td>
+    </tr>
+    <tr>
+      <td><strong>Material</strong></td>
+      <td>Polikarbonat + Rangka Magnesium</td>
+    </tr>
+    <tr>
+      <td><strong>Layar</strong></td>
+      <td>14 inci, TN LCD, 1366 x 768 / 1600 x 900</td>
+    </tr>
+    <tr>
+      <td><strong>Prosesor</strong></td>
+      <td>Intel Core i3/i5/i7 (Generasi ke-4, Haswell)</td>
+    </tr>
+    <tr>
+      <td><strong>Grafis</strong></td>
+      <td>Intel HD Graphics 4600</td>
+    </tr>
+    <tr>
+      <td><strong>RAM</strong></td>
+      <td>4GB / 8GB DDR3L (upgradable hingga 16GB)</td>
+    </tr>
+    <tr>
+      <td><strong>Penyimpanan</strong></td>
+      <td>HDD 500GB / SSD (opsional, upgradable)</td>
+    </tr>
+    <tr>
+      <td><strong>Kamera</strong></td>
+      <td>Webcam HD 720p</td>
+    </tr>
+    <tr>
+      <td><strong>Konektivitas</strong></td>
+      <td>Wi-Fi 802.11 a/b/g/n, Bluetooth 4.0, Ethernet RJ-45</td>
+    </tr>
+    <tr>
+      <td><strong>Port</strong></td>
+      <td>2x USB 3.0, 2x USB 2.0, VGA, Mini DisplayPort, Card Reader, Audio Jack, LAN RJ-45</td>
+    </tr>
+    <tr>
+      <td><strong>Baterai</strong></td>
+      <td>6-cell (48Wh) / 9-cell (99Wh), tahan 5-8 jam</td>
+    </tr>
+    <tr>
+      <td><strong>Sistem Operasi</strong></td>
+      <td>Windows 7 / Windows 8 (bisa di-upgrade ke Windows 10)</td>
+    </tr>
+    <tr>
+      <td><strong>Fitur Tambahan</strong></td>
+      <td>ThinkPad Keyboard, TrackPoint</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="apakah-di-tahun-2025-lenovo-thinkpad-l440-masih-worth-it">Apakah di Tahun 2025 Lenovo Thinkpad L440 Masih Worth It?</h3>
+
+<p>Jawabannya <strong>“Ya”</strong>, masih worth it untuk digunakan dalam menunjang aktivitas bekerja baik di kantor atau sekadar ngetik untuk pelaporan. Namun, untuk dukungan software Windows hanya mentok di Windows 10 saja dan tidak support Windows 11.</p>
+
+<p>Karena persyaratan agar dapat menjalankan Windows 11, perangkat wajib terinstal TPM 2.0 dan prosesor minimal generasi terbaru atau paling tidak Intel generasi 8.</p>
+
+<p>Jika dipaksakan instal Windows 11, sudah dipastikan perangkat tidak optimal dalam penggunaannya dan akan mengakibatkan <strong>“lag”</strong>, walaupun perangkat sudah upgradable baik dalam segi RAM atau penyimpanan.</p>
+
+<p>Untuk <strong>gaming</strong>, laptop ini masih dapat diandalkan untuk sekelas game-game ringan, namun untuk game berat dengan grafik mulus, prosesor dan grafiknya belum mampu untuk mengimbanginya.</p>
+
+<p>Nah, apakah kamu tertarik dengan Lenovo Thinkpad L440? Tulis komentarmu di bawah!</p>]]></content><author><name>sal</name></author><category term="Laptop" /><category term="Lenovo" /><category term="Thinkpad" /><category term="L440" /><summary type="html"><![CDATA[Buat kamu yang sedang mencari rekomendasi laptop second dengan harga terjangkau, Lenovo Thinkpad L440 mungkin bisa menjadi pertimbangan untuk dimiliki. Walaupun tergolong barang yang jadul, tetapi laptop ini mempunyai spesifikasi yang lumayan mumpuni. Untuk menyelesaikan tugas ngetik seperti laporan keuangan, pembuatan skripsi, ngoding, dan browsing, laptop ini masih worth it untuk digunakan.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/lenovo.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/lenovo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

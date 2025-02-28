@@ -21,9 +21,7 @@ Setelah lulus SMA, saya melanjutkan studi di **IAIN Curup** dan aktif di **Lemba
 
 ## Perjalanan di Dunia Blogging
 
-Hobi menulis yang dimulai sejak bangku sekolah terus saya kembangkan hingga akhirnya menjadi sebuah blog. Melalui **[jultekno.web.id](https://jultekno.web.id)**, saya ingin berbagi pengetahuan dan pengalaman saya di bidang teknologi dan konten kreator kepada khalayak yang lebih luas.
-
-## Misi Blog Saya
+Hobi menulis yang dimulai sejak bangku sekolah terus saya kembangkan hingga akhirnya menjadi sebuah blog. Melalui blog ini, saya ingin berbagi pengetahuan dan pengalaman saya di bidang teknologi dan konten kreator kepada khalayak yang lebih luas.
 
 Melalui blog ini, saya ingin:
 
