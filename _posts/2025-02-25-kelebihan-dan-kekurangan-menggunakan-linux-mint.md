@@ -9,9 +9,9 @@ image: assets/images/kelebihan.png
 ---
 
 
-Operating sistem satu ini merupakan yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.
+Linux Mint merupakan distro linux yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.
 
-Walaupun OS ini tidak se-populer Windows, tetapi masih banyak pengguna yang betah dengan kompabilitas yang ditawarkan Linux Mint. Namun yang perlu diingat, semua terobosan produk baik itu yang paling canggih sekalipun memiliki kelebihan dan kekurangan. Termasuk juga dengan Linux Mint.
+Walaupun tidak se-populer Windows, tetapi masih banyak pengguna yang betah dengan kompabilitas yang ditawarkan Linux Mint. Namun yang perlu diingat, semua terobosan produk baik itu yang paling canggih sekalipun memiliki kelebihan dan kekurangan. Termasuk juga dengan Linux Mint.
 
 Nah, berikut ini adalah kelebihan dan kekurangan Linux Mint.
 
