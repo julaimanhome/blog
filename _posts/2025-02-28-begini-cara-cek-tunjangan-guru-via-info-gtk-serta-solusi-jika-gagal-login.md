@@ -13,7 +13,7 @@ Jadi, dengan memanfaatkan situs Info GTK, para guru dapat dengan mudah melihat i
 
 Penasaran bagaimana cara mengeceknya? Simak penjelasan selengkapnya.
 
-## Berikut ini adalah cara cek Info GTK:
+## cara membuka info gtk
 
 1. Silahkan buka situs [https://info.gtk.kemdikbud.go.id](https://info.gtk.kemdikbud.go.id) melalui browser perangkat baik handphone maupun laptop (bisa menggunakan Chrome).
 2. Setelah berhasil masuk ke situs, silahkan masukan **username** (dalam hal ini masukan **ID PTK dari akun Dapodik**) dan untuk **password** masukan akun PTK yang telah terdaftar.
