@@ -3,7 +3,7 @@ layout: post
 title:  "Lelah main IG? Begini Cara Menonaktifkan Akun Instagram"
 author: sal
 categories: [ Tips ]
-tags: [Instagram, Reels]
+tags: [instagram, reels]
 image: assets/images/carahapusig.png
 ---
 Cara Menonaktifkan Akun Instagram - Sosial media di zaman sekarang telah menjadi bagian penting dalam perkembangan teknologi. Sebagaimana fungsinya, sosial media adalah tempat dimana seseorang dapat terhubung dengan orang lain dengan mudah. Sepertinya misalnya yang kita kenal saat ini ada media sosial Instagram yang merupakan situs sosmed milik perusahaan Meta.
