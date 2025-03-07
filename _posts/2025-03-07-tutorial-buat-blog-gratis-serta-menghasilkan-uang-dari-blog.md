@@ -79,12 +79,15 @@ Apabila blog terlalu sering melakukan pelanggaran, biasanya artikel yang kita bu
 ### Kelebihan WordPress.com
 
 - Gratis
+
 Membuat blog di WordPress.com juga gratis tanpa harus membayar. Kita akan mendapatkan alamat blog dengan akhiran wordpress.com.
 
 - Tampilan elegant
+
 Berbeda dari blogger,dengan wordress.com kita dapat memilih tema elegant yang bisa dicoba secara gratis. 
 
 - Bisa di kustom seperti website
+
 Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa memerlukan koding lanjutan seperti blogger.
 
 ### Kekurangan WordPress.com
@@ -167,7 +170,7 @@ Bagi sebagian blogger, mendaftar akun AdSense susah susah gampang. Tidak ada pat
 
 ### Cara mendaftar AdSense
 
-Ada beberapa trik sederhana agar situ blog kamu cepat diterima yang mana diantaranya:
+Ada beberapa trik sederhana agar situs blog kamu cepat diterima yang mana diantaranya:
 - Pastikan artikel original dan tidak copy paste
 - Artikel tidak kurang dari 300 kata, lebih banyak lebih baik
 - Tidak terdapat gambar yang melanggar hak cipta
@@ -201,9 +204,9 @@ Nah, untuk mendaftar akun adsense, pastikan kamu memiliki nomor seluler yang fre
 Biasanya paling lama dua minggu untuk pemeriksaan situs, dan terkadan lebih cepat untuk sesi pemeriksaanya.
 
 ### Hal yang harus dilakukan apabila akun AdSense tidak disetujui
-Tidak usah panik, kamu dapat mengajukan kembali dilain waktu. Kemungkinan yang paling besar alasan penolakan adalah:
+Tidak usah panik, kamu dapat mengajukan kembali dilain waktu. Kemungkinan yang paling besar alasan penolakan google adalah:
 
-- Terkait umur blog atau domain yang msih baru, solusinya tunggulah hingga beberapa bulan agar kemudian ajukan kembali
+- Terkait umur blog atau domain yang masih baru, solusinya tunggulah hingga beberapa bulan, kemudian ajukan kembali
 
 - Masih ada artikel atau postingan yang belum terindeks Google, maka pastikan artikel yang lkmu terbitkan ter-indeks di penelusuran Google. Kamu dapat mengatasinya denga inspeksi url pada Google Search Console dan meminta pen-ideksan manual secara cepat.
 
