@@ -206,13 +206,17 @@ Biasanya paling lama dua minggu untuk pemeriksaan situs, dan terkadan lebih cepa
 ### Hal yang harus dilakukan apabila akun AdSense tidak disetujui
 Tidak usah panik, kamu dapat mengajukan kembali dilain waktu. Kemungkinan yang paling besar alasan penolakan google adalah:
 
-- Terkait umur blog atau domain yang masih baru, solusinya tunggulah hingga beberapa bulan, kemudian ajukan kembali
+- Terkait umur blog atau domain yang masih barusolusinya tunggulah hingga beberapa bulan, kemudian ajukan kembali
 
 - Masih ada artikel atau postingan yang belum terindeks Google, maka pastikan artikel yang lkmu terbitkan ter-indeks di penelusuran Google. Kamu dapat mengatasinya denga inspeksi url pada Google Search Console dan meminta pen-ideksan manual secara cepat.
 
 ### Penutup
 
-Itulah tadi penjelasan terkait daftar blog hingga cara menghasilkan uang dengan blog menggunakan AdSense. Pada intinya, semua butuh usaha dan proses yang panjang. Apabila kita konsisten dan mau belajar dari setiap kesalahan baik itu besar maupun kecil. Usaha yang kita perbuat tidak akan mendatangkan ke-siasiaan. Selamat berjuang teman blogger yang baru memulai, semoga sukses. Saya terbuka untuk diskusi melalui kolom komentar, dengan senang hati saya akan menanggapi.
+Itulah tadi penjelasan terkait daftar blog hingga cara menghasilkan uang dengan blog menggunakan AdSense. Pada intinya, semua butuh usaha dan proses yang panjang. Apabila kita konsisten dan mau belajar dari setiap kesalahan baik itu besar maupun kecil. 
+
+Usaha yang kita perbuat tidak akan mendatangkan ke-siasiaan. Selamat berjuang teman blogger yang baru memulai, semoga sukses. 
+
+Saya terbuka untuk diskusi melalui kolom komentar, dengan senang hati saya akan menanggapi.
 
 
 
