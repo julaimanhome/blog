@@ -12,7 +12,7 @@ Dengan adanya halaman contact us, pengunjung dapat mengirimkan pesan kepada pemi
 
 Maka dari itu, sangat penting sekali membuat halaman contact us pada blog. Dengan halaman contact form akan memudahkan pengunjung menghubungi secara langsung serta memungkinkan pemilik blog mendapatkan peluang bisnis yang lebih besar. Melengkapi blog dengan halaman contact form juga dapat menambah profesionalitas blog dan kepercayaan pengunjung.
 
-Jika kamu pengguna blogger, kamu dapat membuat halaman contact form blogger ini dengan cara yang mudah. Adapun yang pertama yaitu.
+Jika anda pengguna blogger, anda dapat membuat halaman contact form blogger ini dengan cara yang mudah. Adapun yang pertama yaitu.
 
 ### Cara buat contact form blog dengan form bawaan blogger
 
