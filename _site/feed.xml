@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-07T18:50:50+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julaiman Site</title><subtitle>Web Developer &amp; Digital Marketing.</subtitle><entry><title type="html">Tutorial buat blog gratis serta menghasilkan uang dari blog</title><link href="http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog/" rel="alternate" type="text/html" title="Tutorial buat blog gratis serta menghasilkan uang dari blog" /><published>2025-03-07T00:00:00+07:00</published><updated>2025-03-07T00:00:00+07:00</updated><id>http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog</id><content type="html" xml:base="http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog/"><![CDATA[<p>Tutorial buat blog gratis serta menghasilkan uang dari blog - Buat kamu yang sedang mencari tutorial blog dan menghasilkan uang dari blog, maka tepat sekali karena saya akan menjelaskanya dengan lengkap melalui artikel ini. Terlebih buat kamu yang hobi menulis dan ingin menghasilkan uang dari Internet dengan menulis di blog.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-08T17:12:21+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Julaiman Site</title><subtitle>Web Developer &amp; Digital Marketing.</subtitle><entry><title type="html">Bingung buat contact form? Berikut ini cara buat contact form blogger secara gratis</title><link href="http://localhost:4000/cara-buat-contact-form-blogger-secara-gratis/" rel="alternate" type="text/html" title="Bingung buat contact form? Berikut ini cara buat contact form blogger secara gratis" /><published>2025-03-08T00:00:00+07:00</published><updated>2025-03-08T00:00:00+07:00</updated><id>http://localhost:4000/cara-buat-contact-form-blogger-secara-gratis</id><content type="html" xml:base="http://localhost:4000/cara-buat-contact-form-blogger-secara-gratis/"><![CDATA[<p>Rasanya kurang lengkap jika didalam susunan blog tidak terdapat laman contact form. Beberapa pengunjung blog biasanya sering mengulik isi konten yang terdapat dalam blog yang kita buat seperti hal nya halaman contact.</p>
+
+<p>Dengan adanya halaman contact us, pengunjung dapat mengirimkan pesan kepada pemilik blog. Biasanya seseorang menginginkan kepentingan lebih lanjut seperti misalnya mengajak bekerjasama terkait periklanan, menanyakan perihal karir, memberikan saran/kritik dan lain-lain.</p>
+
+<p>Maka dari itu, sangat penting sekali membuat halaman contact us pada blog. Dengan halaman contact form akan memudahkan pengunjung menghubungi secara langsung serta memungkinkan pemilik blog mendapatkan peluang bisnis yang lebih besar. Melengkapi blog dengan halaman contact form juga dapat menambah profesionalitas blog dan kepercayaan pengunjung.</p>
+
+<p>Jika kamu pengguna blogger, kamu dapat membuat halaman contact form blogger ini dengan cara yang mudah. Adapun yang pertama yaitu.</p>
+
+<h3 id="cara-buat-contact-form-blog-dengan-form-bawaan-blogger">Cara buat contact form blog dengan form bawaan blogger</h3>
+
+<p>Dengan menggunakan form default blogger, ini dapat dilakukan dengan menampilkanya pada halaman tersendiri. Pertama-tama., silahkan salin kode berikut ini.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"contact-form-container"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;form</span> <span class="na">name=</span><span class="s">"contact-form"</span><span class="nt">&gt;</span>
+        Nama
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-75"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"contact-form-name"</span> <span class="na">id=</span><span class="s">"ContactForm1_contact-form-name"</span> <span class="na">name=</span><span class="s">"name"</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">value=</span><span class="s">""</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+        Alamat Email
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-75"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"contact-form-name"</span> <span class="na">id=</span><span class="s">"ContactForm1_contact-form-email"</span> <span class="na">name=</span><span class="s">"email"</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">value=</span><span class="s">""</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+        Isi Pesan
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-75"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;textarea</span> <span class="na">class=</span><span class="s">"contact-form-email-message"</span> <span class="na">id=</span><span class="s">"ContactForm1_contact-form-email-message"</span> <span class="na">name=</span><span class="s">"email-message"</span> <span class="na">rows=</span><span class="s">"10"</span><span class="nt">&gt;&lt;/textarea&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span> <span class="na">style=</span><span class="s">"float: left;"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"contact-form-button contact-form-button-submit"</span> <span class="na">id=</span><span class="s">"ContactForm1_contact-form-submit"</span> <span class="na">type=</span><span class="s">"button"</span> <span class="na">value=</span><span class="s">"Kirim"</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;/form&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://www.blogger.com/static/v1/widgets/2271878333-widgets.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+</code></pre></div></div>
+<ul>
+  <li>Salin kode diatas lalu buka dasbor blogger, pergi ke Halaman &gt; Buat Halaman Baru.</li>
+  <li>Silahkan ubah ke Tampilan HTML agar kode dapat diterapkan</li>
+  <li>Buat judul halaman, misalnya ‘Contact Us’ lalu untuk bagian isinya silahklan Paste atau tempel kode yang telah disalin tadi.</li>
+  <li>Lalu disebelah kanan ada pilihan ‘Opsi’ kemudian pilih <strong>‘Jangan Izinkan, Sembunyikan yang ada’</strong> dengan begitu halaman contact anda tidak akan menampilkan kolom komentar.</li>
+  <li>Klik Publikasikan</li>
+</ul>
+
+<p>Okey, tahap pertama sudah selesai. Agar contact form dapat berfungsi, kita harus menambahkan ‘Gadget Formulir Kontak’ pada menu Tata Letak blogger, Caranya :</p>
+
+<ul>
+  <li>Buka dasbor blogger.</li>
+  <li>Klik Tata Letak.</li>
+  <li>Tambahkan Gadget.</li>
+  <li>Pilih Formulir Kontak lalu klik Simpan.</li>
+</ul>
+
+<p>Agar lebih keren, kita perlu menyeting laman contact form agar posisinya tampil cukup dihalaman yang kita buat, yaitu dengan hidden formulir kontak yang telah kita tambahkan tadi, nah silahkan copy kode berikut</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">#ContactForm1</span> <span class="p">{</span>
+    <span class="nl">display</span><span class="p">:</span> <span class="nb">none</span> <span class="cp">!important</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<ul>
+  <li>Masuk ke dasbor blogger &gt; Tema &gt; Edit Tema</li>
+  <li>Silahkan cari kode ]]&gt;&lt;/b:skin&gt; pada tema blog anda, agar lebih cepat klik ctrl+f</li>
+  <li>Paste-kan kode tersebut tepat diatas kode ]]&gt;&lt;/b:skin&gt;</li>
+  <li>Klik Simpan</li>
+</ul>
+
+<p>Silahkan tes halaman contact yang telah dibuat dengan cara mengirimkan pesan sembarangan, untuk memastikan pesan masuk atau tidak.</p>
+
+<h3 id="cara-buat-contact-form-dengan-formspreeio">Cara buat contact form dengan Formspree.io</h3>
+
+<p>Jika mau yang lebih simpel dan keren, anda juga bisa membuat contact form blog menggunakan formspree.io. Situs ini menyediakan layanan contact form yang free. Jika tertarik anda cukup mengunjungi situsnya di https://formspree.io/</p>
+<ul>
+  <li>Kunjungi situsnya lalu klik daftar.</li>
+  <li>Daftar menggunakan email aktif anda dan masukan password baru.</li>
+  <li>Klik Register.</li>
+  <li>Masukan kode verifikasi yang masuk ke email yang telah anda daftarkan.</li>
+  <li>Kemudian Sign-in ke akun Formspree.io yang telah dibuat.</li>
+  <li>Klik Add New &gt; New Form.</li>
+  <li>Isikan Form Name, buat saja misalnya ‘Contact’</li>
+  <li>Pada bagian project ketik saja misalnya First Projek.</li>
+  <li>Untuk bagian <strong>Send Emails To</strong> isikan email anda yang aktif (email sama yang telah didaftarkan di formspree).</li>
+  <li>Jika sudah silahkan copy kode HTML yang tersedia dibawah.</li>
+  <li>Buka dasbor blogger, Lalu buat halaman baru dengan nama misalnya contact.</li>
+  <li>Jangan lupa untuk ubah ke Mode HTML.</li>
+  <li>Paste-kan kode yang telah di copy tadi.</li>
+  <li>lalu klik publikasikan.</li>
+</ul>
+
+<p>Seperti pada langkah diatas, test dulu halaman contact yang telah dibuat tadi apakah berhasil terkirim ke email atau tidak.</p>
+
+<h3 id="penutup">Penutup</h3>
+
+<p>Membuat contact form blog sangatlah penting, karena ddengan adanya contact pengunjung dapat menghubungi kita. Dengan memahami cara membuat formulir kontak diatas semoga dapat memudahkan dan bermanfaat untuk blog yang anda miliki.</p>]]></content><author><name>sal</name></author><category term="Tips" /><category term="blogger" /><summary type="html"><![CDATA[Rasanya kurang lengkap jika didalam susunan blog tidak terdapat laman contact form. Beberapa pengunjung blog biasanya sering mengulik isi konten yang terdapat dalam blog yang kita buat seperti hal nya halaman contact.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/contactformblog.png" /><media:content medium="image" url="http://localhost:4000/assets/images/contactformblog.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tutorial buat blog gratis serta menghasilkan uang dari blog</title><link href="http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog/" rel="alternate" type="text/html" title="Tutorial buat blog gratis serta menghasilkan uang dari blog" /><published>2025-03-07T00:00:00+07:00</published><updated>2025-03-07T00:00:00+07:00</updated><id>http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog</id><content type="html" xml:base="http://localhost:4000/tutorial-buat-blog-gratis-serta-menghasilkan-uang-dari-blog/"><![CDATA[<p>Tutorial buat blog gratis serta menghasilkan uang dari blog - Buat kamu yang sedang mencari tutorial blog dan menghasilkan uang dari blog, maka tepat sekali karena saya akan menjelaskanya dengan lengkap melalui artikel ini. Terlebih buat kamu yang hobi menulis dan ingin menghasilkan uang dari Internet dengan menulis di blog.</p>
 
 <p>Sebelum saya melanjutkan, saya ingin menyampaikan  bahwa artikel yang saya buat ini konteksnya adalah tutorial membuat blog gratis dengan tujuan mendapatkan income atau monetisasi di blog. Disini juga saya hanya berbagi ilmu serta pengalaman yang mungkin dapat bermanfaat untuk teman-teman blogger semuanya.</p>
 
@@ -89,19 +178,22 @@
 <h3 id="kelebihan-wordpresscom">Kelebihan WordPress.com</h3>
 
 <ul>
-  <li>
-    <p>Gratis
-Membuat blog di WordPress.com juga gratis tanpa harus membayar. Kita akan mendapatkan alamat blog dengan akhiran wordpress.com.</p>
-  </li>
-  <li>
-    <p>Tampilan elegant
-Berbeda dari blogger,dengan wordress.com kita dapat memilih tema elegant yang bisa dicoba secara gratis.</p>
-  </li>
-  <li>
-    <p>Bisa di kustom seperti website
-Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa memerlukan koding lanjutan seperti blogger.</p>
-  </li>
+  <li>Gratis</li>
 </ul>
+
+<p>Membuat blog di WordPress.com juga gratis tanpa harus membayar. Kita akan mendapatkan alamat blog dengan akhiran wordpress.com.</p>
+
+<ul>
+  <li>Tampilan elegant</li>
+</ul>
+
+<p>Berbeda dari blogger,dengan wordress.com kita dapat memilih tema elegant yang bisa dicoba secara gratis.</p>
+
+<ul>
+  <li>Bisa di kustom seperti website</li>
+</ul>
+
+<p>Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa memerlukan koding lanjutan seperti blogger.</p>
 
 <h3 id="kekurangan-wordpresscom">Kekurangan WordPress.com</h3>
 
@@ -210,7 +302,7 @@ Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa 
 
 <h3 id="cara-mendaftar-adsense">Cara mendaftar AdSense</h3>
 
-<p>Ada beberapa trik sederhana agar situ blog kamu cepat diterima yang mana diantaranya:</p>
+<p>Ada beberapa trik sederhana agar situs blog kamu cepat diterima yang mana diantaranya:</p>
 <ul>
   <li>Pastikan artikel original dan tidak copy paste</li>
   <li>Artikel tidak kurang dari 300 kata, lebih banyak lebih baik</li>
@@ -248,11 +340,11 @@ Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa 
 <p>Biasanya paling lama dua minggu untuk pemeriksaan situs, dan terkadan lebih cepat untuk sesi pemeriksaanya.</p>
 
 <h3 id="hal-yang-harus-dilakukan-apabila-akun-adsense-tidak-disetujui">Hal yang harus dilakukan apabila akun AdSense tidak disetujui</h3>
-<p>Tidak usah panik, kamu dapat mengajukan kembali dilain waktu. Kemungkinan yang paling besar alasan penolakan adalah:</p>
+<p>Tidak usah panik, kamu dapat mengajukan kembali dilain waktu. Kemungkinan yang paling besar alasan penolakan google adalah:</p>
 
 <ul>
   <li>
-    <p>Terkait umur blog atau domain yang msih baru, solusinya tunggulah hingga beberapa bulan agar kemudian ajukan kembali</p>
+    <p>Terkait umur blog atau domain yang masih barusolusinya tunggulah hingga beberapa bulan, kemudian ajukan kembali</p>
   </li>
   <li>
     <p>Masih ada artikel atau postingan yang belum terindeks Google, maka pastikan artikel yang lkmu terbitkan ter-indeks di penelusuran Google. Kamu dapat mengatasinya denga inspeksi url pada Google Search Console dan meminta pen-ideksan manual secara cepat.</p>
@@ -261,7 +353,11 @@ Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa 
 
 <h3 id="penutup">Penutup</h3>
 
-<p>Itulah tadi penjelasan terkait daftar blog hingga cara menghasilkan uang dengan blog menggunakan AdSense. Pada intinya, semua butuh usaha dan proses yang panjang. Apabila kita konsisten dan mau belajar dari setiap kesalahan baik itu besar maupun kecil. Usaha yang kita perbuat tidak akan mendatangkan ke-siasiaan. Selamat berjuang teman blogger yang baru memulai, semoga sukses. Saya terbuka untuk diskusi melalui kolom komentar, dengan senang hati saya akan menanggapi.</p>]]></content><author><name>sal</name></author><category term="Tips" /><category term="blogger" /><category term="exblog" /><category term="wordpress" /><summary type="html"><![CDATA[Tutorial buat blog gratis serta menghasilkan uang dari blog - Buat kamu yang sedang mencari tutorial blog dan menghasilkan uang dari blog, maka tepat sekali karena saya akan menjelaskanya dengan lengkap melalui artikel ini. Terlebih buat kamu yang hobi menulis dan ingin menghasilkan uang dari Internet dengan menulis di blog.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/tutorialblog.png" /><media:content medium="image" url="http://localhost:4000/assets/images/tutorialblog.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cara Mengatasi Rekomendasi Profil/Halaman Facebook Yang Ditangguhkan</title><link href="http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan/" rel="alternate" type="text/html" title="Cara Mengatasi Rekomendasi Profil/Halaman Facebook Yang Ditangguhkan" /><published>2025-03-02T00:00:00+07:00</published><updated>2025-03-02T00:00:00+07:00</updated><id>http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan</id><content type="html" xml:base="http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan/"><![CDATA[<p>Mengatasi rekomendasi facebook yang ditangguhkan - Sebagian Konten kreator Facebook pro saat ini sedang bingung karena profil atau halaman Facebook yang digunakan untuk ngonten tiba-tiba mendapatkan notifikasi yang membuat para kreator tidak bersemangat.</p>
+<p>Itulah tadi penjelasan terkait daftar blog hingga cara menghasilkan uang dengan blog menggunakan AdSense. Pada intinya, semua butuh usaha dan proses yang panjang. Apabila kita konsisten dan mau belajar dari setiap kesalahan baik itu besar maupun kecil.</p>
+
+<p>Usaha yang kita perbuat tidak akan mendatangkan ke-siasiaan. Selamat berjuang teman blogger yang baru memulai, semoga sukses.</p>
+
+<p>Saya terbuka untuk diskusi melalui kolom komentar, dengan senang hati saya akan menanggapi.</p>]]></content><author><name>sal</name></author><category term="Tips" /><category term="blogger" /><category term="exblog" /><category term="wordpress" /><summary type="html"><![CDATA[Tutorial buat blog gratis serta menghasilkan uang dari blog - Buat kamu yang sedang mencari tutorial blog dan menghasilkan uang dari blog, maka tepat sekali karena saya akan menjelaskanya dengan lengkap melalui artikel ini. Terlebih buat kamu yang hobi menulis dan ingin menghasilkan uang dari Internet dengan menulis di blog.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/tutorialblog.png" /><media:content medium="image" url="http://localhost:4000/assets/images/tutorialblog.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cara Mengatasi Rekomendasi Profil/Halaman Facebook Yang Ditangguhkan</title><link href="http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan/" rel="alternate" type="text/html" title="Cara Mengatasi Rekomendasi Profil/Halaman Facebook Yang Ditangguhkan" /><published>2025-03-02T00:00:00+07:00</published><updated>2025-03-02T00:00:00+07:00</updated><id>http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan</id><content type="html" xml:base="http://localhost:4000/cara-mengatasi-rekomendasi-profil-halaman-facebook-yang-ditangguhkan/"><![CDATA[<p>Mengatasi rekomendasi facebook yang ditangguhkan - Sebagian Konten kreator Facebook pro saat ini sedang bingung karena profil atau halaman Facebook yang digunakan untuk ngonten tiba-tiba mendapatkan notifikasi yang membuat para kreator tidak bersemangat.</p>
 
 <p>Yah benar, notifikasi dari Meta terkait rekomendasi profil/halaman Facebook yang ditangguhkan oleh Pihak Meta Facebook. Alasannya jika dibaca lebih lanjut kira-kira seperti ini.</p>
 
@@ -532,16 +628,4 @@ Bisa di kustom dengan berbagai gaya seperti misalnya halaman landing page tanpa 
 
 <p>Untuk kekurangannya sendiri sebenarnya kita dapat mengatasinya walaupun agak tricky. Selebihnya, Linux Mint ini dapat diandalkan untuk kebutuhan yang lebih expert seperti koding, gaming, membuat laporan, dan sebagainya.</p>
 
-<p>Nah, apakah kamu tertarik beralih ke Linux Mint?</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Linux Mint merupakan distro linux yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/kelebihan.png" /><media:content medium="image" url="http://localhost:4000/assets/images/kelebihan.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Menjalankan Aplikasi Android di Linux Mint Dengan Waydroid</title><link href="http://localhost:4000/menjalankan-aplikasi-android-di-linux-mint-dengan-waydroid/" rel="alternate" type="text/html" title="Menjalankan Aplikasi Android di Linux Mint Dengan Waydroid" /><published>2025-02-25T00:00:00+07:00</published><updated>2025-02-25T00:00:00+07:00</updated><id>http://localhost:4000/menjalankan-%20aplikasi-android-di%20linux-mint-dengan-%20waydroid</id><content type="html" xml:base="http://localhost:4000/menjalankan-aplikasi-android-di-linux-mint-dengan-waydroid/"><![CDATA[<h2 id="nyobain-install-waydroid-di-linux-mint">Nyobain Install Waydroid di Linux Mint</h2>
-
-<p>Setelah beberapa hari menggunakan Linux Mint saya iseng untuk nyobain instal aplikasi android di OS ini. Biasanya kalau di Windows saya menggunakan emulator seperti Bluestack, karena saya baru pertama kali menggunakan OS Linux ada terbersit dalam pikiran apakah bisa di Linux Mint menjalankan aplikasi Android? Tanpa pikir panjang saya pun mencari informasinya melalui internet.</p>
-
-<p>Setelah mencari referensi yang pas akhirnya saya menemukan aplikasi cocok untuk OS Linux Mint yaitu <strong>Waydroid</strong>. Cara instalasi Waydroid di Linux Mint tergolong mudah dan sederhana, cukup melalui terminal kita bisa langsung mengunduhnya.</p>
-
-<p>Ada beberapa tambahan lain ketika selesai instal Waydroid yaitu menginstal <strong>Gapps</strong> yang tujuannya agar kita dapat mengakses aplikasi melalui Google Playstore. Gapps ini ukurannya lebih kurang 900-an MB. Setelah semuanya selesai saya pun merestart laptop kemudian menghidupkannya kembali.</p>
-
-<p>Agar Waydroid dapat diakses, silahkan switch dulu ke mode <strong>Wayland</strong> atau <strong>Wayland Experimental</strong>. Setelah berhasil switch, tugas selanjutnya adalah mendaftarkan ID Waydroid ke Google agar nantinya dapat mengakses aplikasi di Playstore dan jangan lupa untuk login akun Gmail.</p>
-
-<p>Sejauh yang saya alami ketika menjalankan Waydroid di Linux performa aplikasi terbilang lancar tanpa ada kendala lag. Saya memainkan game <strong>Clash of Clans</strong> dengan spesifikasi laptop saya <strong>Intel Core i5 Gen 4 dengan SSD 128 GB serta RAM 8 GB</strong>. Namun ada satu bug yang belum bisa diatasi yaitu <strong>graphic warna yang kurang akurat atau tidak seperti aslinya</strong>.</p>
-
-<p>Untuk selebihnya tidak ada kendala dan keren!</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Nyobain Install Waydroid di Linux Mint]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/waydroid.png" /><media:content medium="image" url="http://localhost:4000/assets/images/waydroid.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Nah, apakah kamu tertarik beralih ke Linux Mint?</p>]]></content><author><name>sal</name></author><category term="Linux" /><category term="Linux Mint" /><summary type="html"><![CDATA[Linux Mint merupakan distro linux yang populer diantara varian distro linux lainnya. Tampilan antar muka yang mirip seperti OS Windows ini bisa dikatakan menarik dan tidak heran kalau Linux Mint banyak digemari, terutama bagi pengguna yang baru beralih dari OS Windows.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/kelebihan.png" /><media:content medium="image" url="http://localhost:4000/assets/images/kelebihan.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

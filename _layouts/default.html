@@ -99,6 +99,59 @@
 
     {% include tracking-footer.html %}
 
+    <!-- Prism.js -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+```
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll("pre").forEach(function (codeBlock) {
+            // Buat tombol Copy
+            var button = document.createElement("button");
+            button.className = "copy-btn";
+            button.innerText = "📋 Copy";
+            codeBlock.appendChild(button);
+
+            // Event saat tombol Copy diklik
+            button.addEventListener("click", function () {
+                var code = codeBlock.querySelector("code");
+                var text = code.innerText || code.textContent;
+
+                navigator.clipboard.writeText(text).then(function () {
+                    button.innerText = "✅ Copied!";
+                    setTimeout(function () {
+                        button.innerText = "📋 Copy";
+                    }, 2000);
+                }).catch(function (err) {
+                    console.error("Gagal menyalin kode", err);
+                });
+            });
+        });
+    });
+</script>
+<style>
+    .copy-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: #ff4081;
+        color: white;
+        border: none;
+        padding: 6px 10px;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 12px;
+    }
+    pre {
+        position: relative;
+        background: #2d2d2d;
+        color: #fff;
+        padding: 15px;
+        border-radius: 5px;
+        overflow-x: auto;
+    }
+</style>
+
 </body>
 
 </html>
